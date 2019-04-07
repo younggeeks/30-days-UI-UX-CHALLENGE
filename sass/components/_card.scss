@@ -13,6 +13,8 @@
   align-items: center;
   flex-direction:column;
   margin-right:3rem;
+  transition:all .2s;
+
 
   &__circle-top-right{
     width:90px;
@@ -103,5 +105,11 @@
         font-weight: 700;
       }
     }
+  }
+
+
+  &:hover{
+    transform: translateY(-.5rem) scale(1.04);
+
   }
 }
