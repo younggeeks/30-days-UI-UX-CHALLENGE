@@ -1,0 +1,43 @@
+// -----------------------------------------------------------------------------
+// This file contains CSS helper classes.
+// -----------------------------------------------------------------------------
+
+/**
+ * Clear inner floats
+ */
+.clearfix::after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+
+.separator_line {
+  height: 1rem;
+  border-right: 1px solid rgba($color-gray,.8);
+  display: block;
+}
+
+.mgr-small {
+  margin-right: 1.5rem;
+}
+
+.mgr-medium {
+  margin-right: 3.5rem;
+}
+
+.mgr-large {
+  margin-right: 6rem;
+}
+
+.mgr-x-small {
+  margin: 1.5rem
+}
+
+.mgr-x-medium {
+  margin: 0 3.5rem;
+}
+
+.mrg-x-large {
+  margin: 0 6rem;
+}

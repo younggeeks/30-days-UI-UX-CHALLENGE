@@ -1,0 +1,28 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+.right-side-content{
+  width:100%;
+}
+
+.section-toolbar{
+  margin-top:1.3rem;
+  margin-left:1.3rem;
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+  margin-right:1.3rem;
+}
+
+.section-profiles{
+  margin-top:1.3rem;
+  margin-left:1.3rem;
+  display:flex;
+  height:71vh;
+  flex-direction:row;
+  margin-right:1.3rem;
+  overflow-y: scroll;
+}
+
+
+

@@ -1,0 +1,13 @@
+@mixin absoluter($top,$left){
+  position: absolute;
+  top:$top;
+  left:$left;
+}
+
+@mixin  clearfix {
+  &:after{
+    content:'';
+    display:table;
+    clear:both;
+  }
+}
