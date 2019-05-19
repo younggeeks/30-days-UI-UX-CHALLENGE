@@ -21,17 +21,10 @@
 @import
   'layout/header',
   'layout/footer';
-@import "layout/grid";
-
 
 // 5. Components
 @import
   'components/button';
-
-@import 'components/card';
-
-@import "components/toolbar";
-@import "components/dropdown";
 @import "components/card";
 
 // 6. Page-specific styles
