@@ -8,5 +8,8 @@ Day II - Dashboard UI
 
 ![Dashboard UI](https://github.com/younggeeks/30-days-UI-UX-CHALLENGE/blob/master/screenshots/dashboard.png)
 
+DAY IV - Eduking 
+![EduKing](https://github.com/younggeeks/30-days-UI-UX-CHALLENGE/blob/master/screenshots/eduking_shot.png)
+
 
 
