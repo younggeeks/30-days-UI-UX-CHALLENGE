@@ -9,6 +9,8 @@ Day II - Dashboard UI
 ![Dashboard UI](https://github.com/younggeeks/30-days-UI-UX-CHALLENGE/blob/master/screenshots/dashboard.png)
 
 DAY IV - Eduking 
+Eduking was designed by Rana Roy (@ranaroy2010) https://www.uplabs.com/posts/education-psd-template-dabaf8d9-bb60-4199-92af-cfc652388e0f
+
 ![EduKing](https://github.com/younggeeks/30-days-UI-UX-CHALLENGE/blob/master/screenshots/eduking_shot.png)
 
 
