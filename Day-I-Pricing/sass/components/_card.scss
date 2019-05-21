@@ -6,14 +6,15 @@
 .card{
   width:18rem;
   height:500px;
-  box-shadow: 0 1rem 3rem rgba(black,0.8);
+  box-shadow: 0 .2rem .3rem rgba(0,0,0,0.45);
   overflow: hidden;
   position:relative;
   display:flex;
   align-items: center;
   flex-direction:column;
   margin-right:3rem;
-  transition:all .2s;
+  transition:all .3s;
+  border-radius:3px;
 
 
   &__circle-top-right{
@@ -109,7 +110,8 @@
 
 
   &:hover{
-    transform: translateY(-.5rem) scale(1.04);
+    transform: translateY(-.4rem);
+    box-shadow: 0 22px 43px rgba(0,0,0,0.65);
 
   }
 }
