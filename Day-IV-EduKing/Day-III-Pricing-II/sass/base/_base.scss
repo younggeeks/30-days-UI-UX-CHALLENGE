@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size:10px;
+  background: url(../img/bg.png) no-repeat center;
+  background-size: cover;
+}
+
+
+

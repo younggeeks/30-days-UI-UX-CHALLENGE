@@ -1,0 +1,23 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button component.
+// -----------------------------------------------------------------------------
+
+.btn{
+  align-self: center;
+  padding:12px 60px;
+  border-radius:60px;
+  text-decoration:none;
+  margin:20px 0;
+  color:white;
+  background: linear-gradient(to right, $color-primary-light,$color-primary-dark) ;
+  font-size:140%;
+  font-weight:300;
+}
+
+
+
+
+
+
+
+

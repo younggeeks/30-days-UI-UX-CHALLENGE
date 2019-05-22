@@ -1,5 +1,14 @@
 {
   "projects": {
     "staging": "eduking-d2479"
+  },
+  "targets": {
+    "eduking-d2479": {
+      "hosting": {
+        "pricing-table": [
+          "pricing-table"
+        ]
+      }
+    }
   }
 }
